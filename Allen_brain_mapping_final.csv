@@ -1,0 +1,411 @@
+,Structure,right label,left label
+1,"Tuberomammillary nucleus, ventral part",43690,1
+2,internal capsule,43692,3
+3,Principal sensory nucleus of the trigeminal,43693,4
+4,Parataenial nucleus,43697,8
+5,Anterior amygdalar area,43701,12
+6,Superior colliculus,43702,13
+7,Intergeniculate leaflet of the lateral geniculate complex,43703,14
+8,Periventricular hypothalamic nucleus,43705,16
+9,Oculomotor nucleus,43707,18
+10,Gustatory areas,43708,19
+11,Paraventricular hypothalamic nucleus,43709,20
+12,Precommissural nucleus,43712,23
+13,medial forebrain bundle,43714,25
+14,Nucleus accumbens,43715,26
+15,Medial terminal nucleus of the accessory optic tract,43716,27
+16,medial longitudinal fascicle,43718,29
+17,Anterodorsal nucleus,43720,31
+18,Lateral terminal nucleus of the accessory optic tract,43721,32
+19,Interstitial nucleus of Cajal,43722,33
+20,Frontal pole,43723,34
+21,Anterodorsal preoptic nucleus,43724,35
+22,Dorsal terminal nucleus of the accessory optic tract,43726,37
+23,middle cerebellar peduncle,43727,38
+24,lateral ventricle,43728,39
+25,Inferior olivary complex,43729,40
+26,Anterior hypothalamic nucleus,43731,42
+27,Interposed nucleus,43732,43
+28,motor root of the trigeminal nerve,43733,44
+29,Dorsal cochlear nucleus,43734,45
+30,Temporal association areas,43735,46
+31,subependymal zone,43736,47
+32,Ventral cochlear nucleus,43738,49
+33,nigrostriatal tract,43739,50
+34,"Superior olivary complex, medial part",43740,51
+35,Inferior salivatory nucleus,43741,52
+36,choroid plexus,43742,53
+37,"Superior olivary complex, lateral part",43744,55
+38,Trochlear nucleus,43745,56
+39,"Agranular insular area, posterior part",43748,59
+40,"Superior olivary complex, periolivary region",43750,61
+41,Koelliker-Fuse subnucleus,43751,62
+42,optic tract,43752,63
+43,Midbrain reticular nucleus,43754,65
+44,Lateral amygdalar nucleus,43756,67
+45,Intermediate reticular nucleus,43759,70
+46,"Nucleus ambiguus, ventral division",43762,73
+47,Pontine reticular nucleus,43764,75
+48,Locus ceruleus,43765,76
+49,Paraventricular nucleus of the thalamus,43767,78
+50,lateral recess,43768,79
+51,Lateral dorsal nucleus of thalamus,43769,80
+52,Anterior olfactory nucleus,43772,83
+53,Laterodorsal tegmental nucleus,43773,84
+54,Nucleus prepositus,43775,87
+55,Prelimbic area,43776,88
+56,Retrochiasmatic area,43777,89
+57,Nucleus of Roller,43778,90
+58,Ventral part of the lateral geniculate complex,43779,91
+59,Nucleus of reuniens,43781,93
+60,Lateral habenula,43782,94
+61,Accessory olfactory bulb,43784,96
+62,pyramid,43786,98
+63,Lateral hypothalamic area,43787,99
+64,Medial vestibular nucleus,43792,104
+65,Linear nucleus of the medulla,43793,105
+66,Area postrema,43796,108
+67,Lateral vestibular nucleus,43797,109
+68,Lateral mammillary nucleus,43798,110
+69,Red nucleus,43800,112
+70,Anterior pretectal nucleus,43801,113
+71,Superior vestibular nucleus,43802,114
+72,Lateral posterior nucleus of the thalamus,43803,115
+73,Arcuate hypothalamic nucleus,43805,117
+74,Spinal vestibular nucleus,43806,118
+75,Lateral preoptic area,43807,119
+76,sensory root of the trigeminal nerve,43808,120
+77,Anterior tegmental nucleus,43810,122
+78,solitary tract,43813,125
+79,"Midbrain reticular nucleus, retrorubral area",43816,128
+80,"Lateral septal nucleus, caudal (caudodorsal) part",43818,130
+81,Anteroventral nucleus of thalamus,43821,133
+82,"Lateral septal nucleus, rostral (rostroventral) part",43823,135
+83,Reticular nucleus of the thalamus,43825,137
+84,Anteroventral preoptic nucleus,43826,138
+85,"Lateral septal nucleus, ventral part",43827,139
+86,Nucleus sagulum,43830,142
+87,Anteroventral periventricular nucleus,43831,143
+88,Barrington's nucleus,43834,146
+89,Anteromedial visual area,43835,147
+90,Suprachiasmatic nucleus,43836,148
+91,Bed nucleus of the anterior commissure,43837,149
+92,Bed nucleus of the accessory olfactory tract,43840,152
+93,Magnocellular nucleus,43842,154
+94,stria terminalis,43843,155
+95,"Basolateral amygdalar nucleus, anterior part",43844,156
+96,Magnocellular reticular nucleus,43847,159
+97,"Basolateral amygdalar nucleus, posterior part",43849,161
+98,Supragenual nucleus,43852,164
+99,Primary motor area,43853,165
+100,Subgeniculate nucleus,43854,166
+101,Suprageniculate nucleus,43855,167
+102,superior cerebelar peduncles,43856,168
+103,"Basomedial amygdalar nucleus, anterior part",43857,169
+105,Septohippocampal nucleus,43861,173
+106,"Basomedial amygdalar nucleus, posterior part",43862,174
+107,Substantia innominata,43866,178
+108,Subparaventricular zone,43868,180
+109,supraoptic commissures,43869,181
+110,Subceruleus nucleus,43870,182
+111,Bed nuclei of the stria terminalis,43871,183
+112,Preparasubthalamic nucleus,43874,186
+113,Sublaterodorsal nucleus,43875,187
+114,Mediodorsal nucleus of thalamus,43876,188
+115,Parasubthalamic nucleus,43878,190
+116,Submedial nucleus of the thalamus,43879,191
+117,Infracerebellar nucleus,43881,193
+118,"Substantia nigra, compact part",43882,194
+119,cuneate fascicle,43884,196
+120,"Substantia nigra, reticular part",43885,197
+121,Field CA1,43886,198
+122,Supraoptic nucleus,43887,199
+123,Medial amygdalar nucleus,43891,203
+124,vestibular nerve,43893,205
+125,Subparafascicular nucleus,43894,206
+127,Lateral visual area,43895,207
+128,Field CA2,43897,209
+129,medial corticohypothalamic tract,43899,211
+130,"Spinal nucleus of the trigeminal, caudal part",43900,212
+131,columns of the fornix,43904,216
+132,"Spinal nucleus of the trigeminal, interpolar part",43905,217
+133,"Retrosplenial area, dorsal part",43908,220
+134,"Spinal nucleus of the trigeminal, oral part",43910,222
+135,"Orbital area, lateral part",43911,223
+136,"Primary somatosensory area, upper limb",43913,225
+137,"Basolateral amygdalar nucleus, ventral part",43914,226
+138,Midbrain trigeminal nucleus,43917,229
+139,Field CA3,43919,231
+140,alveus,43920,232
+141,Subthalamic nucleus,43922,234
+142,brachium of the inferior colliculus,43925,237
+143,Medial habenula,43926,238
+144,"Orbital area, medial part",43927,239
+145,Subiculum,43930,242
+146,dorsal acoustic stria,43931,243
+147,Main olfactory bulb,43932,244
+148,Medial preoptic nucleus,43935,247
+149,Medial preoptic area,43937,249
+150,Supramammillary nucleus,43938,250
+151,"Entorhinal area, medial part, dorsal zone",43939,251
+152,Dorsal auditory area,43940,252
+153,Medial pretectal area,43942,254
+154,Supratrigeminal nucleus,43943,255
+155,dorsal limb,43944,256
+156,Perirhinal area,43945,257
+157,"Retrosplenial area, ventral part",43946,258
+158,Central amygdalar nucleus,43948,260
+159,dorsal spinocerebellar tract,43951,263
+160,"Primary somatosensory area, nose",43953,265
+161,Postpiriform transition area,43957,269
+162,Tegmental reticular nucleus,43959,271
+163,Central lateral nucleus of the thalamus,43960,272
+164,Accessory facial motor nucleus,43961,273
+165,external capsule,43963,275
+166,Nucleus of the brachium of the inferior colliculus,43964,276
+167,Claustrum,43967,279
+168,Nucleus of Darkschewitsch,43968,280
+169,"Anterior cingulate area, ventral part",43969,281
+170,Primary visual area,43972,284
+171,fasciculus retroflexus,43973,285
+172,Diagonal band nucleus,43974,286
+173,"Taenia tecta, dorsal part",43975,287
+174,Central medial nucleus of the thalamus,43977,289
+175,fimbria,43980,292
+176,Nucleus incertus,43981,293
+177,"Taenia tecta, ventral part",43982,294
+178,Subparafascicular area,43984,296
+179,Nucleus of the lateral lemniscus,43987,299
+180,Tuberal nucleus,43989,301
+181,Cuneiform nucleus,43990,302
+182,Motor nucleus of trigeminal,43992,304
+183,Nucleus of the optic tract,43995,307
+184,Ventral anterior-lateral complex of the thalamus,43996,308
+185,Dentate gyrus,43998,310
+186,Nucleus of the posterior commissure,44000,312
+187,"Cortical amygdalar area, anterior part",44002,314
+188,Nucleus of the trapezoid body,44003,315
+189,Nucleus of the solitary tract,44007,319
+190,Abducens nucleus,44008,320
+191,"Cortical amygdalar area, posterior part, lateral zone",44010,322
+192,Secondary motor area,44011,323
+193,lateral lemniscus,44013,325
+194,Facial motor nucleus,44014,326
+195,"Cortical amygdalar area, posterior part, medial zone",44016,328
+196,"lateral olfactory tract, body",44018,330
+197,"Retrosplenial area, lateral agranular part",44021,333
+198,Caudoputamen,44022,334
+199,mammillary peduncle,44023,335
+200,Superior central nucleus raphe,44026,338
+201,mammillotegmental tract,44028,340
+202,Ventral medial nucleus of the thalamus,44029,341
+203,Ventrolateral preoptic nucleus,44031,343
+204,mammillothalamic tract,44032,344
+205,Ventromedial hypothalamic nucleus,44034,346
+206,Posterior auditory area,44036,348
+207,medial lemniscus,44037,349
+208,Cortical subplate,44041,353
+209,"Agranular insular area, ventral part",44042,354
+210,Olivary pretectal nucleus,44043,355
+211,Infralimbic area,44044,356
+212,Cuneate nucleus,44045,357
+213,Ventral posterolateral nucleus of the thalamus,44046,358
+214,Ventral posteromedial nucleus of the thalamus,44053,365
+215,Primary auditory area,44054,366
+216,Ventral tegmental area,44058,370
+217,Posterolateral visual area,44059,371
+218,principal mammillary tract,44060,372
+219,Olfactory tubercle,44061,373
+220,Ventral tegmental nucleus,44063,375
+221,Nucleus x,44066,378
+222,Posterior amygdalar nucleus,44073,385
+223,Nucleus y,44074,386
+224,corticospinal tract,44076,388
+225,Piriform-amygdalar area,44078,390
+226,spinal tract of the trigeminal nerve,44080,392
+227,Zona incerta,44082,394
+228,facial nerve,44083,395
+229,stria medullaris,44085,397
+230,Fields of Forel,44087,399
+231,posteromedial visual area,44088,400
+232,Inferior colliculus,44091,403
+233,Dorsal peduncular area,44093,405
+234,Dorsomedial nucleus of the hypothalamus,44100,412
+235,oculomotor nerve,44102,414
+236,Ectorhinal area,44104,416
+237,Dorsal motor nucleus of the vagus nerve,44106,418
+238,trapezoid body,44107,419
+239,Parasubiculum,44109,421
+240,Dentate nucleus,44111,423
+241,optic nerve,44113,425
+242,uncinate fascicle,44115,427
+243,Parvicellular reticular nucleus,44117,429
+244,Parasolitary nucleus,44120,432
+245,rubrospinal tract,44122,434
+246,ventral spinocerebellar tract,44123,435
+247,Parabrachial nucleus,44124,436
+248,Dorsal nucleus raphe,44126,438
+249,Supplemental somatosensory area,44127,439
+250,Parabigeminal nucleus,44128,440
+251,"Primary somatosensory area, mouth",44129,441
+252,Dorsal tegmental nucleus,44130,442
+253,amygdalar capsule,44132,444
+254,Visceral area,44136,448
+255,Pontine central gray,44137,449
+256,External cuneate nucleus,44140,452
+257,Paracentral nucleus,44143,455
+258,trochlear nerve,44146,458
+259,Lingula (I),44147,459
+260,Posterodorsal preoptic nucleus,44148,460
+261,brachium of the superior colliculus,44149,461
+262,cerebal peduncle,44151,463
+263,Parafascicular nucleus,44154,466
+264,Pontine gray,44155,467
+265,Anterior cingulate area,44156,468
+266,"Nucleus ambiguus, dorsal division",44158,470
+267,cingulum bundle,44159,471
+268,Posterior hypothalamic nucleus,44163,475
+269,vomeronasal nerve,44164,476
+270,"Endopiriform nucleus, dorsal part",44167,479
+271,"Lateral reticular nucleus, magnocellular part",44169,481
+272,Ventral auditory area,44172,484
+273,Piriform area,44173,485
+274,"Lateral reticular nucleus, parvicellular part",44175,487
+275,"Endopiriform nucleus, ventral part",44178,490
+276,"Orbital area, ventrolateral part",44180,492
+277,"Paragigantocellular reticular nucleus, dorsal part",44181,493
+278,"Paragigantocellular reticular nucleus, lateral part",44188,500
+279,Dorsal premammillary nucleus,44189,501
+280,"Primary somatosensory area, barrel field",44190,502
+281,Fasciola cinerea,44191,503
+282,Fastigial nucleus,44195,507
+283,"Agranular insular area, dorsal part",44197,509
+284,Fundus of striatum,44199,511
+285,Ventral premammillary nucleus,44200,512
+286,"Primary somatosensory area, trunk",44202,514
+287,Simple lobule,44203,515
+288,olfactory nerve layer of main olfactory bulb,44207,519
+289,Posterior complex of the thalamus,44208,520
+290,"Globus pallidus, external segment",44210,522
+291,Paramedian lobule,44212,524
+292,Posterior limiting nucleus of the thalamus,44214,526
+293,"Primary somatosensory area, lower limb",44215,527
+294,"Globus pallidus, internal segment",44216,528
+295,Copula pyramidis,44217,529
+296,Postsubiculum,44219,531
+297,Gracile nucleus,44221,533
+298,Paraflocculus,44222,534
+299,crossed tectospinal pathway,44223,535
+300,Peripeduncular nucleus,44224,536
+301,Gigantocellular reticular nucleus,44228,540
+302,Flocculus,44229,541
+303,Pedunculopontine nucleus,44231,542
+304,Crus 1,44233,544
+305,Posterior pretectal nucleus,44236,547
+306,Crus 2,44238,549
+307,Parapyramidal nucleus,44240,551
+308,"Medial geniculate complex, dorsal part",44242,553
+309,Anterolateral visual area,44243,554
+310,Perireunensis nucleus,44244,555
+311,"Medial geniculate complex, ventral part",44245,556
+312,Presubiculum,44247,558
+313,"Medial geniculate complex, medial part",44250,561
+314,Hippocampal formation,44251,562
+315,external medullary lamina of the thalamus,44254,565
+316,"Pontine reticular nucleus, caudal part",44255,566
+317,"Anteromedial nucleus, dorsal part",44257,568
+318,"Medullary reticular nucleus, dorsal part",44259,570
+319,"Anteromedial nucleus, ventral part",44262,573
+320,Intercalated amygdalar nucleus,44263,574
+321,"Medullary reticular nucleus, ventral part",44265,576
+322,Parastrial nucleus,44267,578
+323,Interanterodorsal nucleus of the thalamus,44269,580
+324,"Entorhinal area, lateral part",44273,584
+325,inferior cerebellar peduncle,44274,585
+326,"Tuberomammillary nucleus, dorsal part",44276,587
+327,Nucleus of the lateral olfactory tract,44279,590
+328,"Primary somatosensory area, unassigned",44283,594
+329,Anterior area,44289,600
+330,Laterointermediate area,44295,606
+331,Rostrolateral area,44301,612
+332,Postrhinal area,44307,618
+333,Prosubiculum,44313,624
+334,Area prostriata,44314,625
+335,supra-callosal cerebral white matter,44315,626
+336,optic radiation,44317,628
+337,auditory radiation,44318,629
+338,commissural branch of stria terminalis,44319,630
+339,Dorsal part of the lateral geniculate complex,44321,632
+340,Retroparafascicular nucleus,44327,638
+341,Medial accesory oculomotor nucleus,44328,639
+342,Peritrigeminal zone,44329,640
+343,Accessory trigeminal nucleus,44330,641
+344,Parvicellular motor 5 nucleus,44331,642
+345,Intertrigeminal nucleus,44332,643
+346,Ethmoid nucleus of the thalamus,44333,644
+347,Xiphoid thalamic nucleus,44334,645
+348,Posterior intralaminar thalamic nucleus,44335,646
+349,Posterior triangular thalamic nucleus,44336,647
+350,Intermediate geniculate nucleus,44337,648
+351,Ventromedial preoptic nucleus,44338,649
+352,Perifornical nucleus,44339,650
+353,Hippocampo-amygdalar transition area,44340,651
+354,Paratrigeminal nucleus,44341,652
+355,Vestibulocerebellar nucleus,44342,653
+356,Posterodorsal tegmental nucleus,44344,655
+357,Medial mammillary nucleus,44348,659
+358,Paratrochlear nucleus,44349,660
+359,Paranigral nucleus,44350,661
+360,Supraoculomotor periaqueductal gray,44359,670
+361,Interfascicular nucleus raphe,21846,21846
+362,Induseum griseum,21848,21848
+363,Intermediodorsal nucleus of the thalamus,21853,21853
+364,Interpeduncular nucleus,21856,21856
+365,optic chiasm,21858,21858
+366,third ventricle,21861,21861
+367,cerebral aqueduct,21863,21863
+368,fourth ventricle,21864,21864
+369,posterior commissure,21866,21866
+371,Rhomboid nucleus,21873,21873
+372,Rostral linear nucleus raphe,21874,21874
+373,pyramidal decussation,21875,21875
+374,Nucleus raphe magnus,21876,21876
+375,Nucleus raphe obscurus,21878,21878
+376,Nucleus raphe pallidus,21880,21880
+377,Nucleus raphe pontis,21881,21881
+378,Septofimbrial nucleus,21884,21884
+379,superior colliculus commissure,21886,21886
+380,Subfornical organ,21887,21887
+381,dorsal hippocampal commissure,21891,21891
+382,ventral hippocampal commissure,21892,21892
+383,Median preoptic nucleus,21893,21893
+384,dorsal fornix,21898,21898
+385,Medial septal nucleus,21901,21901
+386,Triangular nucleus of septum,21902,21902
+387,Central linear nucleus raphe,21904,21904
+388,habenular commissure,21911,21911
+389,inferior colliculus commissure,21912,21912
+390,arbor vitae,21918,21918
+391,cerebellar commissure,21920,21920
+392,Vascular organ of the lamina terminalis,21921,21921
+393,Hypoglossal nucleus,21923,21923
+394,Periaqueductal gray,21924,21924
+395,superior cerebellar peduncle decussation,21925,21925
+396,anterior commissure,21933,21933
+397,Declive (VI),21937,21937
+398,Folium-tuber vermis (VII),21938,21938
+399,Pyramus (VIII),21940,21940
+400,Uvula (IX),21941,21941
+401,Nodulus (X),21942,21942
+402,Edinger-Westphal nucleus,21943,21943
+403,Lobule II,21944,21944
+404,Lobule III,21945,21945
+405,root,21947,21947
+406,fiber tracts,21948,21948
+407,doral tegmental decussation,21951,21951
+408,Lobules IV-V,21952,21952
+409,Interanteromedial nucleus of the thalamus,21955,21955
+410,Median eminence,21956,21956
+411,corpus callosum,21957,21957
+412,Subcommissural organ,21959,21959
+413,ventral tegmental decussation,21965,21965

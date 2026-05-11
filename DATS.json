@@ -1,0 +1,166 @@
+{
+    "title": "MRI data for \"Stress-inducible phosphoprotein 1 (HOP/STI1/STIP1) regulates the spreading, aggregation, and toxicity of α-synuclein in vivo\"",
+    "description": "Repository for magnetic resonance imaging data from the project&nbsp;titled &quot;Stress-inducible phosphoprotein 1 (HOP/STI1/STIP1) regulates the spreading, aggregation, and toxicity of &alpha;-synuclein in vivo&quot;\n\nContains the pre-processed ex vivo T1-weighted images (Bruker 7T; 70 micron isotropic voxel resolution) for WT mice, M83 homozygous, and M83 homozygous mice with one copy of the TPR transgene. Full subject list can be viewed with the&nbsp;prado_MRI_M83dTPR_subjectlist_final.csv file.\n\nWhole brain region segmentations are available for these mice. These labels were generated using the MAGeT-Brain segementation pipleine (https://github.com/CobraLab/MAGeTbrain) and using a modified/merged version of the Allen brain atlas. The full list of regions included can be found in the file named Allen_brain_mapping_final.csv.\n\nSee readme.txt file for more information",
+    "creators": [
+        {
+            "name": "Lackie, Rachel E."
+        },
+        {
+            "name": "de Miranda, Aline S."
+        },
+        {
+            "name": "Lim, Mei Peng"
+        },
+        {
+            "name": "Novikov, Vladislav"
+        },
+        {
+            "name": "Madner, Nimrod"
+        },
+        {
+            "name": "Karunatilleke, Nadun C."
+        },
+        {
+            "name": "Rutledge, Benjamin S ."
+        },
+        {
+            "name": "Tullo, Stephanie"
+        },
+        {
+            "name": "Brickenden, Anne"
+        },
+        {
+            "name": "Maitland, Matthew E.R."
+        },
+        {
+            "name": "Greenberg, David"
+        },
+        {
+            "name": "Gallino, Daniel"
+        },
+        {
+            "name": "Luo, Wen"
+        },
+        {
+            "name": "Ataram, Anoosha"
+        },
+        {
+            "name": "Shlafer, Irina"
+        },
+        {
+            "name": "Del Cid Pellitero, Esther"
+        },
+        {
+            "name": "Schild-Poulter, Caroline"
+        },
+        {
+            "name": "Durcan, Thomas M."
+        },
+        {
+            "name": "Fon, Edward A."
+        },
+        {
+            "name": "Duennwald, Martin"
+        },
+        {
+            "name": "Beraldo,  Flavio H."
+        },
+        {
+            "name": "Chakravarty, M. Mallar"
+        },
+        {
+            "name": "Bussey, Timothy J."
+        },
+        {
+            "name": "Saksida, Lisa M."
+        },
+        {
+            "name": "Soreq, Hermona"
+        },
+        {
+            "name": "Choy, Wing-Yiu"
+        },
+        {
+            "name": "Prado, Vania F."
+        },
+        {
+            "name": "Prado, Marco A.M."
+        }
+    ],
+    "version": "1.0.0",
+    "types": [
+        {
+            "information": {
+                "value": "dataset"
+            }
+        }
+    ],
+    "licenses": [
+        {
+            "name": {
+                "id": "cc-by-4.0"
+            }
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 697.72,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": "https://zenodo.org/record/6620797"
+            },
+            "formats": [
+                "N/A"
+            ]
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "source",
+            "values": [
+                {
+                    "value": "zenodo"
+                }
+            ]
+        },
+        {
+            "category": "zenodo_record_id",
+            "values": [
+                {
+                    "value": "6620797"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "47"
+                }
+            ]
+        },
+        {
+            "category": "subjects",
+            "values": [
+                {
+                    "value": "N/A"
+                }
+            ]
+        },
+        {
+            "category": "CONP_status",
+            "values": [
+                {
+                    "value": "CONP"
+                }
+            ]
+        }
+    ]
+}

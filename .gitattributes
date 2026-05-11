@@ -1,2 +1,7 @@
-* annex.backend=MD5E
-**/.git* annex.largefiles=nothing
+README.md annex.largefiles=nothing
+DATS.json annex.largefiles=nothing
+.conp-zenodo-crawler.json annex.largefiles=nothing
+*.csv annex.largefiles=nothing
+*.json annex.largefiles=nothing
+*.txt annex.largefiles=nothing
+.gitattributes annex.largefiles=nothing

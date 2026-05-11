@@ -1,0 +1,22 @@
+scan_ID,mouse_ID,Sex,M83_geno,TPR_geno,Orginial ID,Original cage number,preprocessed_filename,maget_output
+A1,M83 dTPR-3,M,homo,HET,M83dTPR 40-4 M#4,hM83dTPR-137 ,mch_app_m83_a1_lsq6.mnc,mch_app_m83_a1_lsq6_voted.mnc
+A2,M83 dTPR-4,M,homo,HET,M83dTPR 46-1 M#3,hM83dTPR-145 ,mch_app_m83_a2_lsq6.mnc,mch_app_m83_a2_lsq6_voted.mnc
+A3,M83 dTPR-6,M,homo,HET,M83dTPR 46-2 M#4,hM83dTPR-149 ,mch_app_m83_a3_lsq6.mnc,mch_app_m83_a3_lsq6_voted.mnc
+A4,M83 dTPR-7,M,homo,HET,M83dTPR 46-2 M#2,hM83dTPR-149B ,mch_app_m83_a4_lsq6.mnc,mch_app_m83_a4_lsq6_voted.mnc
+A5,M83 dTPR-9,M,homo,HET,M83dTPR 43-4 M#1,hM83dTPR-152 ,mch_app_m83_a5_lsq6.mnc,mch_app_m83_a5_lsq6_voted.mnc
+A6,M83 dTPR-10,M,homo,HET,M83dTPR 40-1 M#1,hM83dTPR #44 ,mch_app_m83_a6_lsq6.mnc,mch_app_m83_a6_lsq6_voted.mnc
+A7,M83 dTPR-11,M,homo,HET,M83dTPR 40-2 M#1,hM83dTPR #45 ,mch_app_m83_a7_lsq6.mnc,mch_app_m83_a7_lsq6_voted.mnc
+A8,M83 dTPR-36,M,homo,HET,M83dTPR 40-4 M#5,hM83dTPR-136,mch_app_m83_a8_lsq6.mnc,mch_app_m83_a8_lsq6_voted.mnc
+B2,M83 dTPR-13,M,homo,WT,M83dTPR 46-2 M#5,hM83dTPR #49 ,mch_app_m83_b2_lsq6.mnc,mch_app_m83_b2_lsq6_voted.mnc
+B3,M83 dTPR-14,M,homo,WT,M83dTPR 44-1 M#3,hM83dTPR #50 ,mch_app_m83_b3_lsq6.mnc,mch_app_m83_b3_lsq6_voted.mnc
+B4,M83 dTPR-15,M,homo,WT,M83dTPR 45-1 M#1,hM83dTPR #51,mch_app_m83_b4_lsq6.mnc,mch_app_m83_b4_lsq6_voted.mnc
+B5,M83 dTPR-38,M,homo,WT,M83dTPR 43-1 M#2,hM83dTPR-139,mch_app_m83_b5_lsq6.mnc,mch_app_m83_b5_lsq6_voted.mnc
+B6,M83 dTPR-39,M,homo,WT,M83dTPR 43-1 M#1,hM83dTPR-139B,mch_app_m83_b6_lsq6.mnc,mch_app_m83_b6_lsq6_voted.mnc
+C1,M83 dTPR-16,M,WT,WT,M83dTPR 5-1 M#2,hM83dTPR-04 ,mch_app_m83_c1_lsq6.mnc,mch_app_m83_c1_lsq6_voted.mnc
+C2,M83 dTPR-17,M,WT,WT,M83dTPR 5-1 M#1,hM83dTPR-04 C,mch_app_m83_c2_lsq6.mnc,mch_app_m83_c2_lsq6_voted.mnc
+C3,M83 dTPR-18,M,WT,WT,M83dTPR 1-1 M#7,hM83dTPR-06,mch_app_m83_c3_lsq6.mnc,mch_app_m83_c3_lsq6_voted.mnc
+C4,M83 dTPR-19,M,WT,WT,M83dTPR 1-1 M#8,hM83dTPR-06,mch_app_m83_c4_lsq6.mnc,mch_app_m83_c4_lsq6_voted.mnc
+C5,M83 dTPR-20,M,WT,WT,M83dTPR 2-1 M#7,hM83dTPR-08,mch_app_m83_c5_lsq6.mnc,mch_app_m83_c5_lsq6_voted.mnc
+C6,M83 dTPR-21,M,WT,WT,M83dTPR 6-1 M#2,hM83dTPR-09,mch_app_m83_c6_lsq6.mnc,mch_app_m83_c6_lsq6_voted.mnc
+C7,M83 dTPR-22,M,WT,WT,M83dTPR 6-1 M#1,hM83dTPR-09B,mch_app_m83_c7_lsq6.mnc,mch_app_m83_c7_lsq6_voted.mnc
+C8,M83 dTPR-23,M,WT,WT,M83dTPR 3-1 M#4,hM83dTPR-09C,mch_app_m83_c8_lsq6.mnc,mch_app_m83_c8_lsq6_voted.mnc
