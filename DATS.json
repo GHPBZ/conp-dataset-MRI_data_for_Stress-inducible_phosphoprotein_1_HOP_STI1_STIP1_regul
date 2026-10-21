@@ -88,6 +88,7 @@
         }
     ],
     "version": "1.0.0",
+    "privacy": "open"
     "types": [
         {
             "information": {
@@ -97,9 +98,7 @@
     ],
     "licenses": [
         {
-            "name": {
-                "id": "cc-by-4.0"
-            }
+            "name": "CC BY 4.0"
         }
     ],
     "keywords": [
@@ -114,7 +113,12 @@
                 "value": "MB"
             },
             "access": {
-                "landingPage": "https://zenodo.org/record/6620797"
+                "landingPage": "https://zenodo.org/record/6620797", 
+                "authorizations": [
+                      {
+                        "value": "open"
+                      }
+                ]
             },
             "formats": [
                 "N/A"
@@ -158,7 +162,7 @@
             "category": "CONP_status",
             "values": [
                 {
-                    "value": "CONP"
+                    "value": "Canadian"
                 }
             ]
         }
